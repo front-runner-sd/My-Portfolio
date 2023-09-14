@@ -11,7 +11,7 @@ module.exports = {
   'hover:translate-y-[-43%]',
   'hover:translate-y-[-60%]',
   'hover:translate-y-[-20%]',
-  'hover:translate-y-[-82%]',
+  'hover:translate-y-[-76%]',
   'flex-row',
   'flex-row-reverse',
   'pl-4',

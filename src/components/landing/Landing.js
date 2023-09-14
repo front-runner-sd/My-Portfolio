@@ -16,7 +16,7 @@ function landing() {
           <li className='hover:text-blue-600 transition-colors hover:border-b-blue-700 hover:border-b-4 pb-1'><a href='#Home' className='transition-all'>Home</a></li>
           <li className='hover:text-blue-600 transition-colors hover:border-b-blue-700 hover:border-b-4  pb-1'><a href='#About'>About</a></li>
           <li className='hover:text-blue-600 transition-colors hover:border-b-blue-700 hover:border-b-4  pb-1'><a href='#Projects'>Projects</a></li>
-          <li className='hover:text-blue-600 transition-colors hover:border-b-blue-700 hover:border-b-4  pb-1'><a href='#Home'>Contact</a></li>
+          <li className='hover:text-blue-600 transition-colors hover:border-b-blue-700 hover:border-b-4  pb-1'><a href='#Contact'>Contact</a></li>
           <li className=' text-blue-600 hover:text-blue-800 transition-colors hover:border-b-blue-700 hover:border-b-4  pb-1'><a href='#Home'>Download CV</a></li>
        </ul>
     </div>
