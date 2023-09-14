@@ -8,7 +8,7 @@ import Contact from './components/Contact/Contact';
 function App() {
   return (
     <div className='flex justify-center scroll-smooth'>
-    <div className="container flex flex-col justify-center items-center">
+    <div className=" flex flex-col justify-center items-center w-full">
       <Landing/>
       <About/>
      <Projects/>
