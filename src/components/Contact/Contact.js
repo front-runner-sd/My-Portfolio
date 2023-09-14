@@ -15,7 +15,7 @@ function Contact() {
 
              <div className='flex flex-row  h-20 gap-4 '> 
                  <div className='flex justify-center items-center'>
-                 <div className='shadow-[0px_0px_13px_rgba(0,0,0,0.24)] p-[0.8rem] group hover:bg-blue-700 rounded-full'><FontAwesomeIcon icon={faMapLocationDot} className='text-blue-700 text-[1.6rem] group-hover:text-slate-50'/></div>
+                 <div className='shadow-[0px_0px_13px_rgba(0,0,0,0.24)] p-[0.8rem] group hover:bg-blue-700 rounded-full'><FontAwesomeIcon icon={faMapLocationDot} className='text-[#006de9] text-[1.6rem] group-hover:text-slate-50'/></div>
                 </div>
                  <div className='flex flex-col justify-center'> 
                     <h1 className='text-xl font-semibold mb-1 tracking-wide max-[450px]:text-lg'>Location</h1>
@@ -25,7 +25,7 @@ function Contact() {
 
              <div className='flex flex-row  h-20 gap-4 '> 
                  <div className='flex justify-center items-center'>
-                 <a href='mailto:iamsoudipdas@gmail.com'><div className='shadow-[0px_0px_13px_rgba(0,0,0,0.24)] p-[0.7rem] rounded-full hover:bg-blue-700 group '><FontAwesomeIcon icon={ faEnvelope} className='text-blue-700 text-[1.75rem] group-hover:text-slate-100' /></div></a>
+                 <a href='mailto:iamsoudipdas@gmail.com'><div className='shadow-[0px_0px_13px_rgba(0,0,0,0.24)] p-[0.7rem] rounded-full hover:bg-blue-700 group '><FontAwesomeIcon icon={ faEnvelope} className='text-[#006de9] text-[1.75rem] group-hover:text-slate-100' /></div></a>
                 </div>
                  <div className='flex flex-col justify-center'> 
                     <h1 className='text-xl font-semibold mb-1 tracking-wide max-[450px]:text-lg'>Mail id</h1>
@@ -41,7 +41,7 @@ function Contact() {
             <div className='flex flex-row  h-20 gap-4'> 
                 <div className='flex justify-center items-center'>
                 <a href='https://soudip.me' target='_blank' rel='noreferrer'>
-                <div className='shadow-[0px_0px_13px_rgba(0,0,0,0.24)] p-[0.8rem] group hover:bg-blue-700 rounded-full'><FontAwesomeIcon icon={faGlobe} className='text-blue-700 text-[1.6rem] group-hover:text-slate-50'/></div>
+                <div className='shadow-[0px_0px_13px_rgba(0,0,0,0.24)] p-[0.8rem] group hover:bg-blue-700 rounded-full'><FontAwesomeIcon icon={faGlobe} className='text-[#006de9] text-[1.6rem] group-hover:text-slate-50'/></div>
                 </a>
             </div>
             <div className='flex flex-col justify-center'> 
@@ -54,7 +54,7 @@ function Contact() {
 
         <div className='flex flex-row  h-20 gap-4 relative right-5 max-md:right-0'> 
             <div className='flex justify-center items-center'>
-            <a href='https://www.linkedin.com/in/thesoudipdas/' target='_blank' rel='noreferrer'><div className='shadow-[0px_0px_13px_rgba(0,0,0,0.24)] p-[0.7rem] rounded-full hover:bg-blue-700 group px-[0.9rem]'><FontAwesomeIcon icon={ faLinkedin} className='text-blue-700 text-[1.75rem] group-hover:text-slate-100' /></div></a>
+            <a href='https://www.linkedin.com/in/thesoudipdas/' target='_blank' rel='noreferrer'><div className='shadow-[0px_0px_13px_rgba(0,0,0,0.24)] p-[0.7rem] rounded-full hover:bg-blue-700 group px-[0.9rem]'><FontAwesomeIcon icon={ faLinkedin} className='text-[#006de9] text-[1.75rem] group-hover:text-slate-100' /></div></a>
         </div>
         <div className='flex flex-col justify-center'> 
             <h1 className='text-xl font-semibold mb-1 tracking-wide max-[450px]:text-lg'>Linkedin</h1>
@@ -64,7 +64,7 @@ function Contact() {
 
         <div className='flex flex-row  h-20 gap-4 relative right-[3.2rem] max-xl:hidden'> 
             <div className='flex justify-center items-center'>
-            <a href='http://github.com/front-runner-sd' target='_blank' rel='noreferrer'><div className='shadow-[0px_0px_13px_rgba(0,0,0,0.24)] p-[0.6rem] rounded-full hover:bg-blue-700 group px-[0.7rem]'><FontAwesomeIcon icon={ faGithub} className='text-blue-700 text-[2rem] group-hover:text-slate-100' /></div></a>
+            <a href='http://github.com/front-runner-sd' target='_blank' rel='noreferrer'><div className='shadow-[0px_0px_13px_rgba(0,0,0,0.24)] p-[0.6rem] rounded-full hover:bg-blue-700 group px-[0.7rem]'><FontAwesomeIcon icon={ faGithub} className='text-[#006de9] text-[2rem] group-hover:text-slate-100' /></div></a>
         </div>
         <div className='flex flex-col justify-center'> 
             <h1 className='text-xl font-semibold mb-1 tracking-wide'>Github</h1>

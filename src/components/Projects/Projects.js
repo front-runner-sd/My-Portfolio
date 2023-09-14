@@ -8,7 +8,7 @@ function Projects() {
   return (
     <section id='Projects' className='w-full flex flex-col justify-center items-center bg-[#dfdfdf] border'>
       <div className='w-11/12 max-w-6xl max-xl:max-w-5xl max-lg:max-w-3xl max-md:max-w-xl '>
-           <h1 className='text-left mt-36 font-bold text-xl text-blue-800 tracking-wide max-md:mb-16 max-md:ml-8 max-[450px]:mt-24 max-[450px]:mb-8' >MY PORTFOLIO</h1>
+           <h1 className='text-left mt-36 font-bold text-xl text-[#006de9] tracking-wide max-md:mb-16 max-md:ml-8 max-[450px]:mt-24 max-[450px]:mb-8' >MY PORTFOLIO</h1>
            <h1 className='mt-4 font-bold text-2xl tracking-wider mb-16 max-md:hidden'>Each Project is a unique piece of Development 🧩</h1>
            <div className='flex flex-col gap-16 mb-32 max-lg:max-w-xl max-lg:relative max-lg:left-20 max-md:left-3 max-[450px]:gap-12 max-[450px]:mb-16'>
                 <ProjectCard img={p1} key={1}  name={"News Nova"} desc={"News Nova is a a Responsive User Friendly Live News Reading App. User can get News from 9 different News Sources. User can Sign up with their email id to search news about any topic."} rev={false} y={-25} link={"https://news-nova.netlify.app"} list={['React','Css','ReactRouter','Firebase','NewsApi']} git={'https://github.com/front-runner-sd/News-Nova-Public'} />
