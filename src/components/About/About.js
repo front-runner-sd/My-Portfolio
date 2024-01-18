@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './3.jpeg'
+import image from './3.jpg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCss3Alt, faGitAlt, faGithub, faHtml5, faJava, faNodeJs, faNpm, faReact, faSquareJs } from '@fortawesome/free-brands-svg-icons'
 import { faArrowRight,faCode } from '@fortawesome/free-solid-svg-icons'
@@ -8,7 +8,7 @@ function about() {
     <section id='About' className='w-full bg-[#f3f3f3] flex flex-col justify-center items-center '>
       <div className='w-11/12 max-w-6xl max-xl:max-w-5xl   max-lg:max-w-3xl max-md:max-w-xl max-md:ml-8'>
         <div className='flex pt-32 pb-24 max-[450px]:pt-24'>
-        <div className='basis-[40%] saturate-[1.25] max-lg:hidden'><img src={image}  alt='Soudip Das' className='w-[22rem] rounded-2xl shadow-xl shadow-slate-600 bg-white  h-[35.8rem] p-1 mt-1 max-xl:w-[20rem] max-xl:h-[32.8rem]'/></div>
+        <div className='basis-[40%]  max-lg:hidden'><img src={image}  alt='Soudip Das' className='w-[22rem] rounded-2xl shadow-xl shadow-slate-600 bg-white  h-[32.8rem] p-1 mt-1 max-xl:w-[20rem] max-xl:h-[32.8rem]'/></div>
         <div className='basis-[59%] mr-16 max-lg:basis-full max-lg:mr-16 max-md:mr-0 max-[450px]:mr-6'>
           <h1 className='font-semibold text-xl text-[#006de9] mb-5 tracking-wide'>MY BACKGROUND</h1>
           <p className='font text-[0.95rem] text-slate-700 break-words mb-3 break-all max-[450px]:text-sm '>I am pursuing <b className='text-slate-900'>Bachelor of Technology in Information Technology</b> from Meghnad Saha Institute of Technology .</p>

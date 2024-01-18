@@ -38,7 +38,7 @@ function landing() {
               <li><a href='mailto:iamsoudipdas@gmail.com' target='_blank' rel="noreferrer"><FontAwesomeIcon icon={faGoogle} className='text-2xl text-slate-600 hover:text-yellow-500'/></a></li>
             </ul>
             </div>
-            <div className='basis-2/4 flex justify-center  max-xl:justify-end max-lg:mt-32 max-lg:ml-8 max-[450px]:ml-0 max-[450px]:mt-24'><img src={pic} alt='Soudip Das' className='w-80 relative  max-xl:right-12 max-md:right-0 max-[450px]:w-64 max-[450px]:h-64 max-[450px]:right-0'/></div>
+            <div className='basis-2/4 flex justify-center  max-xl:justify-end max-lg:mt-32 max-lg:ml-8 max-[450px]:ml-0 max-[450px]:mt-24'><img src={pic} alt='Soudip Das' className='w-96 relative  max-xl:right-12 max-md:right-0 max-[450px]:w-64 max-[450px]:h-64 max-[450px]:right-0'/></div>
         </div>
     </section>
     </>
